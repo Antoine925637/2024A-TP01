@@ -2,4 +2,4 @@
 
 country = input("De quelle nationalité est l'athlète ? ")
 athlete = ...
-date = ... aaa bbb ccc
+date = ... aaa bbb ccc ddd

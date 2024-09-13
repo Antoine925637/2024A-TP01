@@ -19,5 +19,6 @@ elif 10 >= battery_level > 5:
 
 elif 5 >= battery_level > 0:
     print(battery_level * 6, "km")
+
 else:
-    print(" La batterie est vide")
+    print("La batterie est vide")
